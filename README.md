@@ -1,6 +1,10 @@
 Data Visualization
 ===
 
+## 效果预览
+
+[在线预览](https://neptoo.github.io/datav/#/)
+
 ## 技术栈：
 
 - ECharts

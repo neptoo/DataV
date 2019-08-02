@@ -46,13 +46,13 @@ body {
 
 </style>
 <script>
-import PartOne from './common/PartOne.vue';
-import PartTwo from './common/PartTwo.vue';
-import PartThree from './common/PartThree.vue';
-import PartFour from './common/PartFour.vue';
-import PartFive from './common/PartFive.vue';
-import PartSix from './common/PartSix.vue';
-import PartSeven from './common/PartSeven.vue';
+import PartOne from './views/PartOne.vue';
+import PartTwo from './views/PartTwo.vue';
+import PartThree from './views/PartThree.vue';
+import PartFour from './views/PartFour.vue';
+import PartFive from './views/PartFive.vue';
+import PartSix from './views/PartSix.vue';
+import PartSeven from './views/PartSeven.vue';
 export default {
   name: "DashBoard",
   data() {
