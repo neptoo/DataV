@@ -4,6 +4,7 @@ Data Visualization
 ## 效果预览
 
 [在线预览](https://neptoo.github.io/datav/#/)
+![可视化](https://raw.githubusercontent.com/neptoo/datav/master/static/HelloView%20.png)
 
 ## 技术栈：
 
